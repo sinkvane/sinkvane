@@ -1,5 +1,5 @@
-# 💫 Привет!
-На данный момент работаю с JavaScript, React. Открыт для новых возможностей😊
+💫Currently working with JavaScript, React. Open to new opportunities😊
+
 
 
 ## 🌐 Социальные:
